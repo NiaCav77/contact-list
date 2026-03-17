@@ -1,5 +1,5 @@
 <?php
-// filename: resources/views/static_pages/thank-you.blade.php
+// filename: resources/views/static/thank-you.blade.php
 ?>
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
